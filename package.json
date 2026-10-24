@@ -1,0 +1,12 @@
+
+{
+  "name": "nodejs-cicd-webapp",
+  "version": "1.0.0",
+  "description": "Node.js web app deployed using Jenkins CI/CD and Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  }
+}
+
